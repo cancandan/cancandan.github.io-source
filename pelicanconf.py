@@ -41,3 +41,5 @@ PLUGINS = ['ipynb']
 
 THEME='middle-theme'
 GITHUB_USERNAME='cancandan'
+DISQUS_SITENAME='cancandan'
+DISQUS_USERNAME='cancandan'
