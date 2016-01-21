@@ -47,6 +47,7 @@ article header time {
 article p {
   font-size: 16px;
   margin-bottom: 20px;
+  margin-top: 20px;
   line-height: 1.6em;
 }
 article ul,
@@ -212,4 +213,12 @@ article .meta a.comments_btn:hover {
   padding-top: 3px;
   font-size: 12px;
   color: #999;
+}
+
+table {
+  border: 1px solid #ddd;
+}
+
+td {
+  border: 1px solid #ddd;
 }
